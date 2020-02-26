@@ -48,8 +48,13 @@
         line-height: 3.2rem;
     }
     
+    p {
+        margin: 0;
+    }
+    
     img {
         max-width: 100%;
+        width: 100%;
     }
     /** Utilidades **/
     
